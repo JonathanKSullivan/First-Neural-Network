@@ -30,8 +30,6 @@ The data comes from the UCI Machine Learning Database.
     jupyter notebook
 ```
 6. In your browser, open Your_first_neural_network.ipynb
-7. Follow the instructions in the notebook will lead you through the project.
-8. Ensure you've passed the unit tests in the notebook before you submit the project!
 
 ## Built With
 ## Authors
